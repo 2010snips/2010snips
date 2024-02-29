@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Self taught Software Engineer
 -----------------------------
 
-I love to coding!!!!
+I love coding!!!!
 
 * ✉️  You can contact me at [onyxfirestudios69@gmail.com](mailto:onyxfirestudios69@gmail.com)
 * 🚀  I'm currently working on [Weather app](http://discord.gg/zBaM2UFQ9F )
