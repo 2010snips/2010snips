@@ -11,6 +11,8 @@ I love coding!!!!
 * 🧠  I'm learning TypeScript, Java, C#, My own language
 * 🤝  I'm open to collaborating on Starting a SoftwareEngineering Buisness like google,Meta,Tesla etc
 * ⚡  Elon musk is overrated 🤓
+* 😎  Check out my friends GitHub [Friend GitHub](https://github.com/arc360alt)
+
 
 ### Skills
 
