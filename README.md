@@ -13,7 +13,7 @@ I love coding!!!!
 * 😎  Check out my friends GitHub [Friend GitHub](https://github.com/arc360alt)
 
 
-### Skills
+### Skills/Learning
 
 
 <p align="left">
