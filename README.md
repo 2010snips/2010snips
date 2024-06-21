@@ -6,7 +6,7 @@ Self taught Software Engineer
 
 I love coding!!!!
 
-* ✉️  You can contact me at [onyxfirestudios4@gmail.com](mailto:onyxfirestudios4@gmail.com)
+* ✉️  You can contact me at [the2010snips.business@yahoo.com](mailto:the2010snips.business@yahoo.com)
 * 🚀  I'm currently working on [Custom Programming language](http://discord.gg/zBaM2UFQ9F )
 * 🧠  I'm learning TypeScript, Java, C#, My own language
 * 🤝  I'm open to collaborating on Starting a SoftwareEngineering Buisness like google,Meta,Tesla etc
