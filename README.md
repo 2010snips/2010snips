@@ -8,7 +8,7 @@ I love coding!!!!
 
 * ✉️  You can contact me at [the2010snips.business@yahoo.com](mailto:the2010snips.business@yahoo.com)
 * 🚀  I'm currently working on [Custom Programming language](http://discord.gg/zBaM2UFQ9F )
-* 🧠  I'm learning Javascript, C#, and Python
+* 🧠  I'm learning C++,Python,Javascript and GO
 * 🤝  I'm open to collaborating on Starting an Open Source Project with anyone.
 * 😎  Check out my friends GitHub [Friend GitHub](https://github.com/arc360alt)
 
